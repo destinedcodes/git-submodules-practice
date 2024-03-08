@@ -4,3 +4,6 @@
 [submodule "fodista-installer"]
 	path = fodista-installer
 	url = https://github.com/Brandimic0/fodista-installer.git
+[submodule "DestinedCodes"]
+	path = DestinedCodes
+	url = git@github.com:destinedcodes/DestinedCodes.git
