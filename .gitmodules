@@ -1,3 +1,6 @@
 [submodule "fodista_manager"]
 	path = fodista_manager
 	url = https://github.com/Brandimic0/fodista_manager.git
+[submodule "fodista-installer"]
+	path = fodista-installer
+	url = https://github.com/Brandimic0/fodista-installer.git
