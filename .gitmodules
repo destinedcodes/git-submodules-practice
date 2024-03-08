@@ -7,3 +7,4 @@
 [submodule "DestinedCodes"]
 	path = DestinedCodes
 	url = git@github.com:destinedcodes/DestinedCodes.git
+    branch = main
